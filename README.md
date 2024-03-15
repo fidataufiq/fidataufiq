@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fidataufiq.fidataufiq)
 
@@ -9,7 +9,8 @@
 ## How to reach me:
 <a href="mailto:fidataufiqimazuddin@gmail.com">![fidataufiqimazuddin@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<a href="www.linkedin.com/in/fida-taufiq-imazuddin-488291222">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fida-taufiq-imazuddin-488291222/)
+
 
 <!--
 **fidataufiq/fidataufiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
