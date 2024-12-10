@@ -30,6 +30,15 @@ Here are some ideas to get you started:
 
 ---
 
+## 🔥 Fun Facts
+- I'm a **crypto trader** and a proud **HODLer** since 2023. 🚀
+
+---
+
+**Thank you for visiting my profile!** 🙏🏻
+
+🚀 Keep learning, keep coding! 💻
+
 [![](https://visitcount.itsvg.in/api?id=fidataufiq&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
