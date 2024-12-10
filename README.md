@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ## 🔥 Fun Facts
-- I'm a **crypto trader** and a proud **HODLer** since 2023. 🚀
+I'm a **crypto trader** and a proud **HODLer** since 2023. 🚀
 
 
 **Thank you for visiting my profile!** 🙏🏻
