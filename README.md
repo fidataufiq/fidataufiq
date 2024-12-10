@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 ![](https://github-contributor-stats.vercel.app/api?username=fidataufiq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
 ## 🔥 Fun Facts
 - I'm a **crypto trader** and a proud **HODLer** since 2023. 🚀
 
----
 
 **Thank you for visiting my profile!** 🙏🏻
 
 🚀 Keep learning, keep coding! 💻
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=fidataufiq&icon=2&color=1)](https://visitcount.itsvg.in)
 
