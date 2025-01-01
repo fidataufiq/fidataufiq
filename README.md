@@ -62,7 +62,9 @@ I'm a **crypto trader** and a proud **HODLer** since 2023. 🚀
 ---
 
 [![](https://visitcount.itsvg.in/api?id=fidataufiq&icon=2&color=1)](https://visitcount.itsvg.in)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=fidataufiq.github_profile)
+[![](https://visitcount.itsvg.in/api?id=fidataufiq&label=Profile%20Views&icon=5&pretty=true&color=12)](https://visitcount.itsvg.in)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
