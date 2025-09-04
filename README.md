@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 I'm a **crypto trader** and a proud **HODLer** since 2023. 🚀
 -->
 
-
+<!--
 **Thank you for visiting my profile!** 🙏🏻
 
 🚀 Keep learning, keep coding! 💻
