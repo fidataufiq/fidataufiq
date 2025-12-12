@@ -1,5 +1,6 @@
 # Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fidataufiq&layout=compact&theme=radical)
+![Miko's GitHub stats](https://github-readme-stats.vercel.app/api?username=fidataufiq&show_icons=true&theme=radical)
+
 
 
 <!--
