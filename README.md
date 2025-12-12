@@ -1,5 +1,6 @@
 # Hi there 👋
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fidataufiq)
+![Top Langs](https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=fidataufiq&layout=compact)
+
 
 
 
