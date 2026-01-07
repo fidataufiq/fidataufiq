@@ -50,12 +50,13 @@ I care about:
 <tr>
 <td width="50%" align="center">
 
-### 📊 Language & Tech Exposure
-<sub>Based on hands-on projects & learning</sub>
+### 📊 Language Usage
+<sub>Based on public repositories</sub>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript&theme=dark" />
-</p>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidataufiq&layout=compact&langs_count=6&hide_border=true" 
+/>
+
 
 </td>
 
