@@ -14,13 +14,13 @@
 
 ### 🧠 About Me
 
-I'm a **self-driven UI/UX designer** who enjoys building  
-**concept-driven products**, redesigning real platforms,  
-and turning ideas into structured case studies.
+Self-driven **UI/UX Designer** focused on:
+- Concept-driven products
+- Redesigning real platforms
+- Structured case studies
 
-**Design mindset**
-
-- Usability first
+I care about:
+- Usability
 - Product thinking
 - Real-world business context
 
@@ -30,13 +30,12 @@ and turning ideas into structured case studies.
 
 ### 🧩 Tools & Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,typescript,css,js,git,github&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,typescript,git,github" />
 </p>
 
-**Core Focus**
-
-- UI/UX Design (Mobile & Web)
+**Core**
+- UI/UX (Mobile & Web)
 - User Flow & Journey
 - Wireframing & Prototyping
 - Responsive Web Basics
@@ -52,10 +51,11 @@ and turning ideas into structured case studies.
 <td width="50%" align="center">
 
 ### 📊 Language Usage
+<sub>Based on public repositories</sub>
 
-<sub>Auto-generated from public repositories</sub>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidataufiq&layout=pie&theme=tokyonight&hide_border=true" />
+<img 
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fidataufiq&layout=compact&hide_border=true&theme=dark" 
+/>
 
 </td>
 
@@ -63,11 +63,15 @@ and turning ideas into structured case studies.
 
 ### 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=fidataufiq&show_icons=true&theme=tokyonight&hide_border=true" />
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fidataufiq&theme=dark" 
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fidataufiq&theme=tokyonight&hide_border=true" />
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fidataufiq&theme=dark&utcOffset=7" 
+/>
 
 </td>
 </tr>
@@ -82,7 +86,7 @@ and turning ideas into structured case studies.
 ### 🎯 Current Focus
 
 - 🌐 Modern Landing Page & Website Redesign
-- 🎨 UI/UX Case Study–based Projects
+- 🎨 UI/UX Case Study Projects
 - 📊 Fintech & Crypto App Concepts
 
 </td>
@@ -91,9 +95,9 @@ and turning ideas into structured case studies.
 
 ### 🌱 Currently Learning
 
-- UI/UX for Fintech & Crypto Products
+- UI/UX for Fintech & Crypto
 - Product Strategy & UX Research
-- Design Systems & Component Thinking
+- Design Systems & Components
 
 </td>
 </tr>
@@ -107,18 +111,18 @@ and turning ideas into structured case studies.
 
 ### 📌 Notes
 
-- This profile reflects **growth over time**
-- Language stats evolve as projects grow
-- UI/UX repos are intentionally structured & documented
+- Profile reflects **growth over time**
+- Stats improve as projects grow
+- UI/UX repos are intentionally structured
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📫 Connect With Me
+### 📫 Connect
 
 - 📺 YouTube: <b>TAQ LINE</b>
-- 💬 Open for collaboration & discussions
+- 💬 Open for collaboration
 
 </td>
 </tr>
@@ -129,6 +133,7 @@ and turning ideas into structured case studies.
 <p align="center">
 <i>“Progress beats perfection. Ship, learn, repeat.”</i>
 </p>
+
 
 
 
