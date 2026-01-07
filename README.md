@@ -1,5 +1,134 @@
-# Hi there 👋
-![Top Langs](https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=fidataufiq&layout=compact)
+<!-- # Hi there 👋 -->
+
+<h1 align="center">Hi, I'm Taufiq 👋</h1>
+<p align="center">
+🎨 UI/UX Designer • 🌐 Web Enthusiast • 📊 Crypto & Trading Explorer <br/>
+🏎️ Sim Racing Content Creator — <b>TAQ LINE</b>
+</p>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 About Me
+
+I'm a **self-driven UI/UX designer** who enjoys building  
+**concept-driven products**, redesigning real platforms,  
+and turning ideas into structured case studies.
+
+**Design mindset**
+
+- Usability first
+- Product thinking
+- Real-world business context
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Tools & Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,html,typescript,css,js,git,github&theme=dark" />
+</p>
+
+**Core Focus**
+
+- UI/UX Design (Mobile & Web)
+- User Flow & Journey
+- Wireframing & Prototyping
+- Responsive Web Basics
+
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 📊 Language Usage
+
+<sub>Auto-generated from public repositories</sub>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidataufiq&layout=pie&theme=tokyonight&hide_border=true" />
+
+</td>
+
+<td width="50%" align="center">
+
+### 📈 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=fidataufiq&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fidataufiq&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+- 🌐 Modern Landing Page & Website Redesign
+- 🎨 UI/UX Case Study–based Projects
+- 📊 Fintech & Crypto App Concepts
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+
+- UI/UX for Fintech & Crypto Products
+- Product Strategy & UX Research
+- Design Systems & Component Thinking
+
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📌 Notes
+
+- This profile reflects **growth over time**
+- Language stats evolve as projects grow
+- UI/UX repos are intentionally structured & documented
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📫 Connect With Me
+
+- 📺 YouTube: <b>TAQ LINE</b>
+- 💬 Open for collaboration & discussions
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+<i>“Progress beats perfection. Ship, learn, repeat.”</i>
+</p>
 
 
 
