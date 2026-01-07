@@ -54,7 +54,7 @@ I care about:
 <sub>Based on public repositories</sub>
 
 <img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fidataufiq&layout=compact&hide_border=true&theme=dark" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidataufiq&layout=compact&langs_count=6&hide_border=true" 
 />
 
 </td>
