@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Taufiq 👋</h1>
 <p align="center">
 🎨 UI/UX Designer • 🌐 Web Enthusiast • 📊 Crypto & Trading Explorer <br/>
-🏎️ Sim Racing
+🏎️ Sim Racing • 🌾 Professional dirt therapist.
 </p>
 
 
